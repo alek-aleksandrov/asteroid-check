@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+body {
+  background-image: url('./assets/itokawa_asteroid.jpeg');
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block!important;
+  place-content: initial;
+  padding: 0 0 0 0!important;
+}
